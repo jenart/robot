@@ -5,6 +5,13 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobot", "ToyRobot\ToyRobot.csproj", "{6E097E49-A78E-40E9-BCFB-57815BF278DB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{122E9ED7-BC0E-4967-BB9A-79C3C6C5C9D6}"
+	ProjectSection(SolutionItems) = preProject
+		ToyRobot\test1.txt = ToyRobot\test1.txt
+		ToyRobot\test2.txt = ToyRobot\test2.txt
+		ToyRobot\test3.txt = ToyRobot\test3.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
